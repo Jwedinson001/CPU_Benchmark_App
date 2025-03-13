@@ -1,0 +1,5 @@
+numpy
+scipy
+threading
+time
+statistics
